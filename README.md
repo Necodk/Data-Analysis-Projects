@@ -8,9 +8,9 @@ Overall, this GitHub repository offers comprehensive and useful content for indi
 # Content
 [AB Testing](https://github.com/Necodk/Data-Analysis-Projects/blob/main/AB%20Testing/AB%20Testing%20Readme.md)
 
-Amplitude Analysis
+[Amplitude Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Amplitude/Amplitude%20Readme.md)
 
-Google BigQuery Usage
+[Google BigQuery Usage](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Google%20BigQuery/BigQuery%20Readme.md)
 
 Google Sheets Usage
 
