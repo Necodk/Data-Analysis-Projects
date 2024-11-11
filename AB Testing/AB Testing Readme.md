@@ -18,7 +18,7 @@ The report includes the following sections:
   - Statistical significance tests
 - **Results and Insights**: Key findings from the test, interpretation of data, and implications of the observed results.
 
-The PDF report is available in this repository under the filename `A-B_Testing.pdf`.
+The PDF report is available in this repository under the filename [A-B_Testing.pdf](https://github.com/Necodk/Data-Analysis-Projects/blob/main/AB%20Testing/A-B_Testing.pdf) and [A-B_Testing.ipynb](https://github.com/Necodk/Data-Analysis-Projects/blob/main/AB%20Testing/A-B_Testing.ipynb).
 
 ## Tests Conducted
 
