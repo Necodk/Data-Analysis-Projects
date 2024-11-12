@@ -59,6 +59,14 @@ The analysis suggests that targeted ad spending and strategic release timing pla
 
 For any further analysis or insights, please refer to the comments and detailed metrics included in the dataset.
 
+## Author & Contact Information
+
+This analysis was conducted by a data analyst with expertise in user behavior analytics, conversion optimization, and data visualization.
+
+For further information or questions:
+- **GitHub Issues**: If you have any questions or issues, please open a [GitHub Issue](https://github.com/Necodk/Data-Analysis-Projects/issues).
+- **Email**: Reach out via email at [dogankaraoglu025@gmail.com](mailto:dogankaraoglu025@gmail.com).
+
 ## Additional Resources
 
 For more information or to view To the project, please visit the [Google Sheets](https://docs.google.com/spreadsheets/d/1KaI3mtRHTqQqcjsvdoqoLIizCRvoNxDujUtwXfGaJss/edit?usp=sharing)
