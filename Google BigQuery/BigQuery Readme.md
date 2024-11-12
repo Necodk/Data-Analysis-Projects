@@ -151,4 +151,4 @@ For further information or questions:
 
 ## Additional Resources
 
-For more information or to view the interactive dashboard, please visit the [BigQuery Project](https://console.cloud.google.com/bigquery?hl=tr&project=proven-mind-429519-f8&ws=!1m4!1m3!8m2!1s441610422913!2s374324d4b984498096f6b765ab7e0c7e).
+For more information or to view To the project, please visit the [BigQuery Project](https://console.cloud.google.com/bigquery?hl=tr&project=proven-mind-429519-f8&ws=!1m4!1m3!8m2!1s441610422913!2s374324d4b984498096f6b765ab7e0c7e).
