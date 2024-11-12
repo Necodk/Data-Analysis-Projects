@@ -73,6 +73,14 @@ This analysis highlights areas for improvement in user retention, engagement, an
 
 For further details or analysis, refer to the individual charts and tables provided.
 
+## Author & Contact Information
+
+This analysis was conducted by a data analyst with expertise in user behavior analytics, conversion optimization, and data visualization.
+
+For further information or questions:
+- **GitHub Issues**: If you have any questions or issues, please open a [GitHub Issue](https://github.com/Necodk/Data-Analysis-Projects/issues).
+- **Email**: Reach out via email at [dogankaraoglu025@gmail.com](mailto:dogankaraoglu025@gmail.com).
+
 ## Additional Resources
 
 For more information or to view To the project, please visit the [Google Sheets](https://docs.google.com/spreadsheets/d/1YmolMXQWfPR-i776SmIl8b8tLxLocoTiZWapc3GG35k/edit?usp=sharing)
