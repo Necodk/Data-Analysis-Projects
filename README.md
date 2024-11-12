@@ -49,20 +49,6 @@ Each project showcases unique insights and offers practical examples, making it 
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions to this repository! Here’s how you can get involved:
-
-1. **Fork** this repository to your GitHub account.
-2. Create a **new branch** for your feature or bug fix, ideally following the naming convention `feature-branch`.
-3. Once your changes are ready, **push** them to your branch.
-4. Open a **Pull Request (PR)** to submit your contribution.
-
-For detailed contribution guidelines, please refer to the [**Contributing.md**](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Contributing.md) file in this repository.
-
-## 📜 License
-
-This project is open source and made available under the terms outlined in the [**License.txt**](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Licence.txt) file. Please take a moment to review this file for information on usage rights, permissions, and any restrictions.
 
 ## 📬 Contact and Support
 
