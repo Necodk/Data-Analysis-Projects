@@ -1,67 +1,81 @@
-# Data Analysis Projects
-This GitHub repository is a comprehensive collection of data analysis and data visualization projects. Users can find various data analysis projects in this repository, utilizing different tools and technologies.
+# 📊 Data Analysis Projects
 
-The repository provides users with sample data analysis projects, offering learning and practical opportunities. It also serves as a valuable resource for those seeking to gain knowledge about the technologies and tools used.
+Welcome to the **Data Analysis Projects** repository! This collection provides a variety of data analysis and visualization projects, utilizing different tools and technologies across diverse business domains. This repository is designed to be a resourceful guide for data analysts, data scientists, and anyone interested in building their skills in data analysis and visualization.
 
-Overall, this GitHub repository offers comprehensive and useful content for individuals working in or interested in the field of data analysis and visualization.
+Each project showcases unique insights and offers practical examples, making it a valuable resource for both learning and professional applications. Whether you're exploring A/B testing methods, funnel analysis, cohort analysis, or performance metrics, you'll find useful content here to expand your knowledge.
 
-# Content
-## AB Testing
+---
 
-• [AB Testing](https://github.com/Necodk/Data-Analysis-Projects/blob/main/AB%20Testing/AB%20Testing%20Readme.md)
+## 🌐 Content Overview
 
-## Amplitude Analysis
+### AB Testing
+- **[A/B Testing Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/AB%20Testing/AB%20Testing%20Readme.md)**
 
-• [Amplitude Analysis Dashboard](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Amplitude/Amplitude%20Readme.md)
+### Amplitude Analysis
+- **[Amplitude Analysis Dashboard](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Amplitude/Amplitude%20Readme.md)**
 
-## Google BigQuery 
+### Google BigQuery
+- **[E-commerce Funnel Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Google%20BigQuery/BigQuery%20Readme.md)**
 
-• [E-commerce Funnel Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Google%20BigQuery/BigQuery%20Readme.md)
+### Google Sheets
+- **[Game Metrics Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Google%20Sheets/Game%20Metrics%20Readme.md)**
+- **[User Activity and Cohort Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Google%20Sheets/User%20Activity%20and%20Cohort%20Analysis%20Readme.md)**
 
-## Google Sheets 
+### Google Looker Studio
+- **[Google Looker Studio Dashboard](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Google%20Looker%20Studio/Google%20Looker%20Studio%20Readme.md)**
 
-• [Game Metrics Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Google%20Sheets/Game%20Metrics%20Readme.md)
+### Power BI Projects
+- **[Power BI Project](https://github.com/Necodk/Data-Analysis-Projects/blob/main/PowerBI/PowerBI%20Readme.md)**
 
-• [User Activity and Cohort Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Google%20Sheets/User%20Activity%20and%20Cohort%20Analysis%20Readme.md)
+### Python Data Analysis
+- **[Python Data Collection with Pandas](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Python/DC%20with%20Pandas%20Readme.md)**
+- **[Python Data Collection Project](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Python/Data%20Collecting%20Readme.md)**
+- **[Python Data Visualization Project](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Python/Data%20Visualization%20Readme.md)**
 
-## Google Looker Studio 
+### SQL Projects
+- **[Facebook Ads Data Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Sql%20Basic%20Readme.md)**
+- **[Facebook Ads Performance Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Sql%20Metrics%20Readme.md)**
+- **[Cross-Platform Ads Performance Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Sql%20Cte%20and%20Union%20Readme.md)**
+- **[Cross-Platform Ads and Facebook ROMI Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Sql%20Join%20Readme.md)**
+- **[UTM Campaign Analysis with Facebook and Google Ads](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Data%20Cleaning%20and%20String%20Function%20Readme.md)**
+- **[Monthly UTM Campaign Performance Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Dates-Times%20Window%20Functions%20Readme.md)**
 
-• [Google Looker Studio](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Google%20Looker%20Studio/Google%20Looker%20Studio%20Readme.md)
+### Tableau Projects
+- **[Gaming Activity Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Tableau%20Projects/Gaming%20Activity%20Analysis%20Readme.md)**
+- **[SaaS Revenue and Cohort Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Tableau%20Projects/SaaS%20Revenue%20and%20Cohort%20Analysis%20Readme.md)**
+- **[Revenue Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Tableau%20Projects/Revenue%20Analysis%20Readme.md)**
+- **[Shipping Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Tableau%20Projects/Shipping%20Analysis%20Readme.md)**
+- **[User Journey Funnel Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Tableau%20Projects/User%20Journey%20Funnel%20Analysis%20Readme.md)**
 
-## PowerBI Projects
+---
 
-• [PowerBI Project](https://github.com/Necodk/Data-Analysis-Projects/blob/main/PowerBI/PowerBI%20Readme.md)
+## 🤝 Contributing
 
-## Python Data Analysis
+We welcome contributions to this repository! Here’s how you can get involved:
 
-• [Python Data Collection with Pandas](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Python/DC%20with%20Pandas%20Readme.md)
+1. **Fork** this repository to your GitHub account.
+2. Create a **new branch** for your feature or bug fix, ideally following the naming convention `feature-branch`.
+3. Once your changes are ready, **push** them to your branch.
+4. Open a **Pull Request (PR)** to submit your contribution.
 
-• [Python Data Collection Project](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Python/Data%20Collecting%20Readme.md)
+For detailed contribution guidelines, please refer to the [**Contributing.md**](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Contributing.md) file in this repository.
 
-• [Python Data Visualization Project](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Python/Data%20Visualization%20Readme.md)
+## 📜 License
 
-## SQL 
+This project is open source and made available under the terms outlined in the [**License.txt**](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Licence.txt) file. Please take a moment to review this file for information on usage rights, permissions, and any restrictions.
 
-• [Facebook Ads Data Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Sql%20Basic%20Readme.md)
+## 📬 Contact and Support
 
-• [Facebook Ads Performance Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Sql%20Metrics%20Readme.md)
+Have questions, suggestions, or feedback? We’d love to hear from you! Connect with us through the following channels:
 
-• [Cross-Platform Ads Performance Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Sql%20Cte%20and%20Union%20Readme.md)
+- **GitHub Issues**: Open an issue in the [GitHub Issues](https://github.com/Necodk/Data-Analysis-Projects/issues) section to ask questions or report bugs.
+- **Email**: Reach out directly via email at [dogankaraoglu025@gmail.com](mailto:dogankaraoglu025@gmail.com).
 
-• [Cross-Platform Ads and Facebook ROMI Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Sql%20Join%20Readme.md)
+Thank you for your interest in contributing! 🚀
 
-• [UTM Campaign Analysis with Facebook and Google Ads](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Data%20Cleaning%20and%20String%20Function%20Readme.md)
+---
 
-• [Monthly UTM Campaign Performance Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Dates-Times%20Window%20Functions%20Readme.md)
+## 🌐 Connect with Me on Social Media
 
-## Tableau Projects
-
-• [Gaming Activity Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Tableau%20Projects/Gaming%20Activity%20Analysis%20Readme.md)
-
-• [SaaS Revenue and Cohort Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Tableau%20Projects/SaaS%20Revenue%20and%20Cohort%20Analysis%20Readme.md)
-
-• [Revenue Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Tableau%20Projects/Revenue%20Analysis%20Readme.md)
-
-• [Shipping Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Tableau%20Projects/Shipping%20Analysis%20Readme.md)
-
-• [User Journey Funnel Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Tableau%20Projects/User%20Journey%20Funnel%20Analysis%20Readme.md)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dogankaraoglu/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karaoglu.nd/)
