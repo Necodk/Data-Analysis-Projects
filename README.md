@@ -34,34 +34,34 @@ Overall, this GitHub repository offers comprehensive and useful content for indi
 
 ## Python Data Analysis
 
-• 
+• [Python Data Collection with Pandas](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Python/DC%20with%20Pandas%20Readme.md)
 
-• 
+• [Python Data Collection Project](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Python/Data%20Collecting%20Readme.md)
 
-• 
+• [Python Data Visualization Project](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Python/Data%20Visualization%20Readme.md)
 
 ## SQL 
 
-• 
+• [Facebook Ads Data Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Sql%20Basic%20Readme.md)
 
-• 
+• [Facebook Ads Performance Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Sql%20Metrics%20Readme.md)
 
-• 
+• [Cross-Platform Ads Performance Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Sql%20Cte%20and%20Union%20Readme.md)
 
-• 
+• [Cross-Platform Ads and Facebook ROMI Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Sql%20Join%20Readme.md)
 
-• 
+• [UTM Campaign Analysis with Facebook and Google Ads](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Data%20Cleaning%20and%20String%20Function%20Readme.md)
 
-• 
+• [Monthly UTM Campaign Performance Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/SQL/Dates-Times%20Window%20Functions%20Readme.md)
 
 ## Tableau Projects
 
-• 
+• [Gaming Activity Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Tableau%20Projects/Gaming%20Activity%20Analysis%20Readme.md)
 
-• 
+• [SaaS Revenue and Cohort Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Tableau%20Projects/SaaS%20Revenue%20and%20Cohort%20Analysis%20Readme.md)
 
-• 
+• [Revenue Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Tableau%20Projects/Revenue%20Analysis%20Readme.md)
 
-• 
+• [Shipping Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Tableau%20Projects/Shipping%20Analysis%20Readme.md)
 
-• 
+• [User Journey Funnel Analysis](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Tableau%20Projects/User%20Journey%20Funnel%20Analysis%20Readme.md)
