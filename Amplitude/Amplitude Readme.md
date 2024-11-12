@@ -2,6 +2,8 @@
 
 This repository contains a dashboard analysis from Amplitude, showcasing user engagement and conversion metrics for a media streaming application. The dashboard provides insights into user behavior, retention rates, conversion funnels, and the most common user journeys.
 
+![Amplitude Analysis Dashboard](https://github.com/Necodk/Data-Analysis-Projects/blob/main/Amplitude/Amplitude%20Analysis.png)
+
 ## Overview
 
 The Amplitude Analysis dashboard visualizes key metrics over a specified period (June 1 to June 30). It tracks user sign-ups, engagement with media content, retention, and conversion rates across different steps, giving an in-depth look into user activity and behavior patterns.
