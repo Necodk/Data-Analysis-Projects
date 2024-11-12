@@ -26,10 +26,42 @@ Overall, this GitHub repository offers comprehensive and useful content for indi
 
 ## Google Looker Studio 
 
+• 
+
 ## PowerBI Projects
+
+• [PowerBI Project](https://github.com/Necodk/Data-Analysis-Projects/blob/main/PowerBI/PowerBI%20Readme.md)
 
 ## Python Data Analysis
 
+• 
+
+• 
+
+• 
+
 ## SQL 
 
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
 ## Tableau Projects
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
